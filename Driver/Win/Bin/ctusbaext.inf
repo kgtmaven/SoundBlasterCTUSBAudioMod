@@ -1,0 +1,2727 @@
+[Version]
+Signature="$WINDOWS NT$"
+Class=Extension
+ClassGuid={e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+Provider=%Creative%
+ExtensionId={1BBB99B1-03DF-4468-81DC-11A3F1BF6E7E}
+DriverVer=09/26/2024,3.06.03.00
+CatalogFile=ctusbaext.cat
+PnpLockdown=1
+
+[SourceDisksNames]
+222 = %DiskId1%
+
+[SourceDisksFiles]
+
+[DestinationDirs]
+
+[Manufacturer]
+%Creative% =  Extension, NTx86.10.0...22000, NTamd64.10.0...22000, NTx86.10.0...17763, NTamd64.10.0...17763
+
+
+[Extension.NTx86.10.0...22000]
+%ExtensionDesc%=SB1815_Device.11.ntx86, USB\VID_041E&PID_3278&MI_03
+%ExtensionDesc%=ZZ0090_Device.11.ntx86, USB\VID_041E&PID_3286&MI_03
+%ExtensionDesc%=SA0200_Device.11.ntx86, USB\VID_041E&PID_312D&MI_03
+%ExtensionDesc%=SB1820_Device.11.ntx86, USB\VID_041E&PID_3265&MI_03
+
+%ExtensionDesc%=SB1860_74_Device.11.ntx86, USB\VID_041E&PID_3274&MI_00
+%ExtensionDesc%=SB1860_76_Device.11.ntx86, USB\VID_041E&PID_3276&MI_00
+
+%ExtensionDesc%=SB1710_Device.11.ntx86, USB\VID_041E&PID_3245&MI_00
+%ExtensionDesc%=MF1705_Device.11.ntx86, USB\VID_041E&PID_3280&MI_00
+%ExtensionDesc%=MF1710_Device.11.ntx86, USB\VID_041E&PID_3287&MI_01
+%ExtensionDesc%=SA0190_Device.11.ntx86, USB\VID_041E&PID_3291&MI_00
+%ExtensionDesc%=SA0190_LEA_Device.11.ntx86, USB\VID_041E&PID_3296&MI_00
+%ExtensionDesc%=SA0180_Device.11.ntx86, USB\VID_041E&PID_312B&MI_02
+%ExtensionDesc%=SA0180_3_Device.11.ntx86, USB\VID_041E&PID_312F&MI_02
+%ExtensionDesc%=SA0180_4_Device.11.ntx86, USB\VID_041E&PID_3130&MI_02
+%ExtensionDesc%=MF1715_Device.11.ntx86, USB\VID_041E&PID_3299&MI_01
+%ExtensionDesc%=MF0495_Device.11.ntx86, USB\VID_041E&PID_329A&MI_01
+%ExtensionDesc%=SA0210_Device.11.ntx86, USB\VID_041E&PID_3132&MI_02
+%ExtensionDesc%=MF8460_Device.11.ntx86, USB\VID_041E&PID_3295&MI_01
+%ExtensionDesc%=MF8410_Device.11.ntx86, USB\VID_041E&PID_3289&MI_01
+%ExtensionDesc%=MF8470_Device.11.ntx86, USB\VID_041E&PID_329D&MI_01
+
+
+[Extension.NTamd64.10.0...22000]
+%ExtensionDesc%=SB1815_Device.11.ntamd64, USB\VID_041E&PID_3278&MI_03
+%ExtensionDesc%=ZZ0090_Device.11.ntamd64, USB\VID_041E&PID_3286&MI_03
+%ExtensionDesc%=SA0200_Device.11.ntamd64, USB\VID_041E&PID_312D&MI_03
+%ExtensionDesc%=SB1820_Device.11.ntamd64, USB\VID_041E&PID_3265&MI_03
+
+%ExtensionDesc%=SB1860_74_Device.11.ntamd64, USB\VID_041E&PID_3274&MI_00
+%ExtensionDesc%=SB1860_76_Device.11.ntamd64, USB\VID_041E&PID_3276&MI_00
+
+%ExtensionDesc%=SB1710_Device.11.ntamd64, USB\VID_041E&PID_3245&MI_00
+%ExtensionDesc%=MF1705_Device.11.ntamd64, USB\VID_041E&PID_3280&MI_00
+%ExtensionDesc%=MF1710_Device.11.ntamd64, USB\VID_041E&PID_3287&MI_01
+%ExtensionDesc%=SA0190_Device.11.ntamd64, USB\VID_041E&PID_3291&MI_00
+%ExtensionDesc%=SA0190_LEA_Device.11.ntamd64, USB\VID_041E&PID_3296&MI_00
+%ExtensionDesc%=SA0180_Device.11.ntamd64, USB\VID_041E&PID_312B&MI_02
+%ExtensionDesc%=SA0180_3_Device.11.ntamd64, USB\VID_041E&PID_312F&MI_02
+%ExtensionDesc%=SA0180_4_Device.11.ntamd64, USB\VID_041E&PID_3130&MI_02
+%ExtensionDesc%=MF1715_Device.11.ntamd64, USB\VID_041E&PID_3299&MI_01
+%ExtensionDesc%=MF0495_Device.11.ntamd64, USB\VID_041E&PID_329A&MI_01
+%ExtensionDesc%=SA0210_Device.11.ntamd64, USB\VID_041E&PID_3132&MI_02
+%ExtensionDesc%=MF8460_Device.11.ntamd64, USB\VID_041E&PID_3295&MI_01
+%ExtensionDesc%=MF8410_Device.11.ntamd64, USB\VID_041E&PID_3289&MI_01
+%ExtensionDesc%=MF8470_Device.11.ntamd64, USB\VID_041E&PID_329D&MI_01
+
+
+[Extension.NTx86.10.0...17763]
+%ExtensionDesc%=SB1815_Device.10.ntx86, USB\VID_041E&PID_3278&MI_03
+%ExtensionDesc%=ZZ0090_Device.10.ntx86, USB\VID_041E&PID_3286&MI_03
+%ExtensionDesc%=SA0200_Device.10.ntx86, USB\VID_041E&PID_312D&MI_03
+%ExtensionDesc%=SB1820_Device.10.ntx86, USB\VID_041E&PID_3265&MI_03
+
+%ExtensionDesc%=SB1860_74_Device.10.ntx86, USB\VID_041E&PID_3274&MI_00
+%ExtensionDesc%=SB1860_76_Device.10.ntx86, USB\VID_041E&PID_3276&MI_00
+
+%ExtensionDesc%=SB1710_Device.10.ntx86, USB\VID_041E&PID_3245&MI_00
+%ExtensionDesc%=MF1705_Device.10.ntx86, USB\VID_041E&PID_3280&MI_00
+%ExtensionDesc%=MF1710_Device.10.ntx86, USB\VID_041E&PID_3287&MI_01
+%ExtensionDesc%=SA0190_Device.10.ntx86, USB\VID_041E&PID_3291&MI_00
+%ExtensionDesc%=SA0190_LEA_Device.10.ntx86, USB\VID_041E&PID_3296&MI_00
+%ExtensionDesc%=SA0180_Device.10.ntx86, USB\VID_041E&PID_312B&MI_02
+%ExtensionDesc%=SA0180_3_Device.10.ntx86, USB\VID_041E&PID_312F&MI_02
+%ExtensionDesc%=SA0180_4_Device.10.ntx86, USB\VID_041E&PID_3130&MI_02
+%ExtensionDesc%=MF1715_Device.10.ntx86, USB\VID_041E&PID_3299&MI_01
+%ExtensionDesc%=MF0495_Device.10.ntx86, USB\VID_041E&PID_329A&MI_01
+%ExtensionDesc%=SA0210_Device.10.ntx86, USB\VID_041E&PID_3132&MI_02
+%ExtensionDesc%=MF8460_Device.10.ntx86, USB\VID_041E&PID_3295&MI_01
+%ExtensionDesc%=MF8410_Device.10.ntx86, USB\VID_041E&PID_3289&MI_01
+%ExtensionDesc%=MF8470_Device.10.ntx86, USB\VID_041E&PID_329D&MI_01
+
+
+[Extension.NTamd64.10.0...17763]
+%ExtensionDesc%=SB1815_Device.10.ntamd64, USB\VID_041E&PID_3278&MI_03
+%ExtensionDesc%=ZZ0090_Device.10.ntamd64, USB\VID_041E&PID_3286&MI_03
+%ExtensionDesc%=SA0200_Device.10.ntamd64, USB\VID_041E&PID_312D&MI_03
+%ExtensionDesc%=SB1820_Device.10.ntamd64, USB\VID_041E&PID_3265&MI_03
+
+%ExtensionDesc%=SB1860_74_Device.10.ntamd64, USB\VID_041E&PID_3274&MI_00
+%ExtensionDesc%=SB1860_76_Device.10.ntamd64, USB\VID_041E&PID_3276&MI_00
+
+%ExtensionDesc%=SB1710_Device.10.ntamd64, USB\VID_041E&PID_3245&MI_00
+%ExtensionDesc%=MF1705_Device.10.ntamd64, USB\VID_041E&PID_3280&MI_00
+%ExtensionDesc%=MF1710_Device.10.ntamd64, USB\VID_041E&PID_3287&MI_01
+%ExtensionDesc%=SA0190_Device.10.ntamd64, USB\VID_041E&PID_3291&MI_00
+%ExtensionDesc%=SA0190_LEA_Device.10.ntamd64, USB\VID_041E&PID_3296&MI_00
+%ExtensionDesc%=SA0180_Device.10.ntamd64, USB\VID_041E&PID_312B&MI_02
+%ExtensionDesc%=SA0180_3_Device.10.ntamd64, USB\VID_041E&PID_312F&MI_02
+%ExtensionDesc%=SA0180_4_Device.10.ntamd64, USB\VID_041E&PID_3130&MI_02
+%ExtensionDesc%=MF1715_Device.10.ntamd64, USB\VID_041E&PID_3299&MI_01
+%ExtensionDesc%=MF0495_Device.10.ntamd64, USB\VID_041E&PID_329A&MI_01
+%ExtensionDesc%=SA0210_Device.10.ntamd64, USB\VID_041E&PID_3132&MI_02
+%ExtensionDesc%=MF8460_Device.10.ntamd64, USB\VID_041E&PID_3295&MI_01
+%ExtensionDesc%=MF8410_Device.10.ntamd64, USB\VID_041E&PID_3289&MI_01
+%ExtensionDesc%=MF8470_Device.10.ntamd64, USB\VID_041E&PID_329D&MI_01
+
+
+
+[SB1815_Device.11.ntx86]
+
+[SB1815_Device.11.ntamd64]
+
+[SB1815_Device.10.ntx86]
+
+[SB1815_Device.10.ntamd64]
+
+
+[ZZ0090_Device.11.ntx86]
+
+[ZZ0090_Device.11.ntamd64]
+
+[ZZ0090_Device.10.ntx86]
+
+[ZZ0090_Device.10.ntamd64]
+
+
+[SA0200_Device.11.ntx86]
+
+[SA0200_Device.11.ntamd64]
+
+[SA0200_Device.10.ntx86]
+
+[SA0200_Device.10.ntamd64]
+
+
+[SB1820_Device.11.ntx86]
+
+[SB1820_Device.11.ntamd64]
+
+[SB1820_Device.10.ntx86]
+
+[SB1820_Device.10.ntamd64]
+
+
+[SB1860_74_Device.11.ntx86]
+
+[SB1860_74_Device.11.ntamd64]
+
+[SB1860_74_Device.10.ntx86]
+
+[SB1860_74_Device.10.ntamd64]
+
+
+[SB1860_76_Device.11.ntx86]
+
+[SB1860_76_Device.11.ntamd64]
+
+[SB1860_76_Device.10.ntx86]
+
+[SB1860_76_Device.10.ntamd64]
+
+
+[SB1710_Device.11.ntx86]
+
+[SB1710_Device.11.ntamd64]
+
+[SB1710_Device.10.ntx86]
+
+[SB1710_Device.10.ntamd64]
+
+
+[MF1705_Device.11.ntx86]
+
+[MF1705_Device.11.ntamd64]
+
+[MF1705_Device.10.ntx86]
+
+[MF1705_Device.10.ntamd64]
+
+
+[MF1710_Device.11.ntx86]
+
+[MF1710_Device.11.ntamd64]
+
+[MF1710_Device.10.ntx86]
+
+[MF1710_Device.10.ntamd64]
+
+
+[SA0190_Device.11.ntx86]
+
+[SA0190_Device.11.ntamd64]
+
+[SA0190_Device.10.ntx86]
+
+[SA0190_Device.10.ntamd64]
+
+
+[SA0190_LEA_Device.11.ntx86]
+
+[SA0190_LEA_Device.11.ntamd64]
+
+[SA0190_LEA_Device.10.ntx86]
+
+[SA0190_LEA_Device.10.ntamd64]
+
+
+[SA0180_Device.11.ntx86]
+
+[SA0180_Device.11.ntamd64]
+
+[SA0180_Device.10.ntx86]
+
+[SA0180_Device.10.ntamd64]
+
+
+[SA0180_3_Device.11.ntx86]
+
+[SA0180_3_Device.11.ntamd64]
+
+[SA0180_3_Device.10.ntx86]
+
+[SA0180_3_Device.10.ntamd64]
+
+
+[SA0180_4_Device.11.ntx86]
+
+[SA0180_4_Device.11.ntamd64]
+
+[SA0180_4_Device.10.ntx86]
+
+[SA0180_4_Device.10.ntamd64]
+
+
+[MF1715_Device.11.ntx86]
+
+[MF1715_Device.11.ntamd64]
+
+[MF1715_Device.10.ntx86]
+
+[MF1715_Device.10.ntamd64]
+
+
+[MF0495_Device.11.ntx86]
+
+[MF0495_Device.11.ntamd64]
+
+[MF0495_Device.10.ntx86]
+
+[MF0495_Device.10.ntamd64]
+
+
+[SA0210_Device.11.ntx86]
+
+[SA0210_Device.11.ntamd64]
+
+[SA0210_Device.10.ntx86]
+
+[SA0210_Device.10.ntamd64]
+
+
+[MF8460_Device.11.ntx86]
+
+[MF8460_Device.11.ntamd64]
+
+[MF8460_Device.10.ntx86]
+
+[MF8460_Device.10.ntamd64]
+
+
+[MF8410_Device.11.ntx86]
+
+[MF8410_Device.11.ntamd64]
+
+[MF8410_Device.10.ntx86]
+
+[MF8410_Device.10.ntamd64]
+
+
+[MF8470_Device.11.ntx86]
+
+[MF8470_Device.11.ntamd64]
+
+[MF8470_Device.10.ntx86]
+
+[MF8470_Device.10.ntamd64]
+
+
+[SB1815_Device.11.ntx86.HW]
+AddReg=SB1815HW.AddReg
+
+[SB1815_Device.11.ntamd64.HW]
+AddReg=SB1815HW.AddReg
+
+[SB1815_Device.10.ntx86.HW]
+AddReg=SB1815HW.AddReg
+
+[SB1815_Device.10.ntamd64.HW]
+AddReg=SB1815HW.AddReg
+
+[SB1815HW.AddReg]
+HKR,,FriendlyName,,%SB1815.DeviceDesc%
+
+
+[ZZ0090_Device.11.ntx86.HW]
+AddReg=ZZ0090HW.AddReg
+
+[ZZ0090_Device.11.ntamd64.HW]
+AddReg=ZZ0090HW.AddReg
+
+[ZZ0090_Device.10.ntx86.HW]
+AddReg=ZZ0090HW.AddReg
+
+[ZZ0090_Device.10.ntamd64.HW]
+AddReg=ZZ0090HW.AddReg
+
+[ZZ0090HW.AddReg]
+HKR,,FriendlyName,,%ZZ0090.DeviceDesc%
+
+
+[SA0200_Device.11.ntx86.HW]
+AddReg=SA0200HW.AddReg
+
+[SA0200_Device.11.ntamd64.HW]
+AddReg=SA0200HW.AddReg
+
+[SA0200_Device.10.ntx86.HW]
+AddReg=SA0200HW.AddReg
+
+[SA0200_Device.10.ntamd64.HW]
+AddReg=SA0200HW.AddReg
+
+[SA0200HW.AddReg]
+HKR,,FriendlyName,,%SA0200.DeviceDesc%
+
+
+[SB1820_Device.11.ntx86.HW]
+AddReg=SB1820HW.AddReg
+
+[SB1820_Device.11.ntamd64.HW]
+AddReg=SB1820HW.AddReg
+
+[SB1820_Device.10.ntx86.HW]
+AddReg=SB1820HW.AddReg
+
+[SB1820_Device.10.ntamd64.HW]
+AddReg=SB1820HW.AddReg
+
+[SB1820HW.AddReg]
+HKR,,FriendlyName,,%SB1820.DeviceDesc%
+
+
+[SB1860_74_Device.11.ntx86.HW]
+AddReg=SB1860_74HW.AddReg
+
+[SB1860_74_Device.11.ntamd64.HW]
+AddReg=SB1860_74HW.AddReg
+
+[SB1860_74_Device.10.ntx86.HW]
+AddReg=SB1860_74HW.AddReg
+
+[SB1860_74_Device.10.ntamd64.HW]
+AddReg=SB1860_74HW.AddReg
+
+[SB1860_74HW.AddReg]
+HKR,,FriendlyName,,%SB1860_74.DeviceDesc%
+
+
+[SB1860_76_Device.11.ntx86.HW]
+AddReg=SB1860_76HW.AddReg
+
+[SB1860_76_Device.11.ntamd64.HW]
+AddReg=SB1860_76HW.AddReg
+
+[SB1860_76_Device.10.ntx86.HW]
+AddReg=SB1860_76HW.AddReg
+
+[SB1860_76_Device.10.ntamd64.HW]
+AddReg=SB1860_76HW.AddReg
+
+[SB1860_76HW.AddReg]
+HKR,,FriendlyName,,%SB1860_76.DeviceDesc%
+
+
+[SB1710_Device.11.ntx86.HW]
+AddReg=SB1710HW.AddReg
+
+[SB1710_Device.11.ntamd64.HW]
+AddReg=SB1710HW.AddReg
+
+[SB1710_Device.10.ntx86.HW]
+AddReg=SB1710HW.AddReg
+
+[SB1710_Device.10.ntamd64.HW]
+AddReg=SB1710HW.AddReg
+
+[SB1710HW.AddReg]
+HKR,,FriendlyName,,%SB1710.DeviceDesc%
+
+
+[MF1705_Device.11.ntx86.HW]
+AddReg=MF1705HW.AddReg
+
+[MF1705_Device.11.ntamd64.HW]
+AddReg=MF1705HW.AddReg
+
+[MF1705_Device.10.ntx86.HW]
+AddReg=MF1705HW.AddReg
+
+[MF1705_Device.10.ntamd64.HW]
+AddReg=MF1705HW.AddReg
+
+[MF1705HW.AddReg]
+HKR,,FriendlyName,,%MF1705.DeviceDesc%
+
+
+[MF1710_Device.11.ntx86.HW]
+AddReg=MF1710HW.AddReg
+
+[MF1710_Device.11.ntamd64.HW]
+AddReg=MF1710HW.AddReg
+
+[MF1710_Device.10.ntx86.HW]
+AddReg=MF1710HW.AddReg
+
+[MF1710_Device.10.ntamd64.HW]
+AddReg=MF1710HW.AddReg
+
+[MF1710HW.AddReg]
+HKR,,FriendlyName,,%MF1710.DeviceDesc%
+
+
+[SA0190_Device.11.ntx86.HW]
+AddReg=SA0190HW.AddReg
+
+[SA0190_Device.11.ntamd64.HW]
+AddReg=SA0190HW.AddReg
+
+[SA0190_Device.10.ntx86.HW]
+AddReg=SA0190HW.AddReg
+
+[SA0190_Device.10.ntamd64.HW]
+AddReg=SA0190HW.AddReg
+
+[SA0190HW.AddReg]
+HKR,,FriendlyName,,%SA0190.DeviceDesc%
+
+
+[SA0190_LEA_Device.11.ntx86.HW]
+AddReg=SA0190LEAHW.AddReg
+
+[SA0190_LEA_Device.11.ntamd64.HW]
+AddReg=SA0190LEAHW.AddReg
+
+[SA0190_LEA_Device.10.ntx86.HW]
+AddReg=SA0190LEAHW.AddReg
+
+[SA0190_LEA_Device.10.ntamd64.HW]
+AddReg=SA0190LEAHW.AddReg
+
+[SA0190LEAHW.AddReg]
+HKR,,FriendlyName,,%SA0190.DeviceDesc%
+
+
+[SA0180_Device.11.ntx86.HW]
+AddReg=SA0180HW.AddReg
+
+[SA0180_Device.11.ntamd64.HW]
+AddReg=SA0180HW.AddReg
+
+[SA0180_Device.10.ntx86.HW]
+AddReg=SA0180HW.AddReg
+
+[SA0180_Device.10.ntamd64.HW]
+AddReg=SA0180HW.AddReg
+
+[SA0180HW.AddReg]
+HKR,,FriendlyName,,%SA0180.DeviceDesc%
+
+
+[SA0180_3_Device.11.ntx86.HW]
+AddReg=SA0180_3HW.AddReg
+
+[SA0180_3_Device.11.ntamd64.HW]
+AddReg=SA0180_3HW.AddReg
+
+[SA0180_3_Device.10.ntx86.HW]
+AddReg=SA0180_3HW.AddReg
+
+[SA0180_3_Device.10.ntamd64.HW]
+AddReg=SA0180_3HW.AddReg
+
+[SA0180_3HW.AddReg]
+HKR,,FriendlyName,,%SA0180_3.DeviceDesc%
+
+
+[SA0180_4_Device.11.ntx86.HW]
+AddReg=SA0180_4HW.AddReg
+
+[SA0180_4_Device.11.ntamd64.HW]
+AddReg=SA0180_4HW.AddReg
+
+[SA0180_4_Device.10.ntx86.HW]
+AddReg=SA0180_4HW.AddReg
+
+[SA0180_4_Device.10.ntamd64.HW]
+AddReg=SA0180_4HW.AddReg
+
+[SA0180_4HW.AddReg]
+HKR,,FriendlyName,,%SA0180_4.DeviceDesc%
+
+
+[MF1715_Device.11.ntx86.HW]
+AddReg=MF1715HW.AddReg
+
+[MF1715_Device.11.ntamd64.HW]
+AddReg=MF1715HW.AddReg
+
+[MF1715_Device.10.ntx86.HW]
+AddReg=MF1715HW.AddReg
+
+[MF1715_Device.10.ntamd64.HW]
+AddReg=MF1715HW.AddReg
+
+[MF1715HW.AddReg]
+HKR,,FriendlyName,,%MF1715.DeviceDesc%
+
+
+[MF0495_Device.11.ntx86.HW]
+AddReg=MF0495HW.AddReg
+
+[MF0495_Device.11.ntamd64.HW]
+AddReg=MF0495HW.AddReg
+
+[MF0495_Device.10.ntx86.HW]
+AddReg=MF0495HW.AddReg
+
+[MF0495_Device.10.ntamd64.HW]
+AddReg=MF0495HW.AddReg
+
+[MF0495HW.AddReg]
+HKR,,FriendlyName,,%MF0495.DeviceDesc%
+
+
+[SA0210_Device.11.ntx86.HW]
+AddReg=SA0210HW.AddReg
+
+[SA0210_Device.11.ntamd64.HW]
+AddReg=SA0210HW.AddReg
+
+[SA0210_Device.10.ntx86.HW]
+AddReg=SA0210HW.AddReg
+
+[SA0210_Device.10.ntamd64.HW]
+AddReg=SA0210HW.AddReg
+
+[SA0210HW.AddReg]
+HKR,,FriendlyName,,%SA0210.DeviceDesc%
+
+
+[MF8460_Device.11.ntx86.HW]
+AddReg=MF8460HW.AddReg
+
+[MF8460_Device.11.ntamd64.HW]
+AddReg=MF8460HW.AddReg
+
+[MF8460_Device.10.ntx86.HW]
+AddReg=MF8460HW.AddReg
+
+[MF8460_Device.10.ntamd64.HW]
+AddReg=MF8460HW.AddReg
+
+[MF8460HW.AddReg]
+HKR,,FriendlyName,,%MF8460.DeviceDesc%
+
+
+[MF8410_Device.11.ntx86.HW]
+AddReg=MF8410HW.AddReg
+
+[MF8410_Device.11.ntamd64.HW]
+AddReg=MF8410HW.AddReg
+
+[MF8410_Device.10.ntx86.HW]
+AddReg=MF8410HW.AddReg
+
+[MF8410_Device.10.ntamd64.HW]
+AddReg=MF8410HW.AddReg
+
+[MF8410HW.AddReg]
+HKR,,FriendlyName,,%MF8410.DeviceDesc%
+
+
+[MF8470_Device.11.ntx86.HW]
+AddReg=MF8470HW.AddReg
+
+[MF8470_Device.11.ntamd64.HW]
+AddReg=MF8470HW.AddReg
+
+[MF8470_Device.10.ntx86.HW]
+AddReg=MF8470HW.AddReg
+
+[MF8470_Device.10.ntamd64.HW]
+AddReg=MF8470HW.AddReg
+
+[MF8470HW.AddReg]
+HKR,,FriendlyName,,%MF8470.DeviceDesc%
+
+
+
+[SB1815_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1815.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1815.Interface.topology.11
+
+[SB1815_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1815.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1815.Interface.topology.11
+
+[SB1815_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1815.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1815.Interface.topology.10
+
+[SB1815_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1815.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1815.Interface.topology.10
+
+
+[ZZ0090_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       ZZ0090.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       ZZ0090.Interface.topology.11
+
+[ZZ0090_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       ZZ0090.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       ZZ0090.Interface.topology.11
+
+[ZZ0090_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       ZZ0090.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       ZZ0090.Interface.topology.10
+
+[ZZ0090_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       ZZ0090.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       ZZ0090.Interface.topology.10
+
+
+[SA0200_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SA0200.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SA0200.Interface.topology.11
+
+[SA0200_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SA0200.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SA0200.Interface.topology.11
+
+[SA0200_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SA0200.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SA0200.Interface.topology.10
+
+[SA0200_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SA0200.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SA0200.Interface.topology.10
+
+
+[SB1820_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1820.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1820.Interface.topology.11
+
+[SB1820_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1820.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1820.Interface.topology.11
+
+[SB1820_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1820.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1820.Interface.topology.10
+
+[SB1820_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1820.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1820.Interface.topology.10
+
+
+[SB1860_74_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1860_74.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1860_74.Interface.topology.11
+
+[SB1860_74_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1860_74.Interface.topology.11
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1860_74.Interface.topology.11
+
+[SB1860_74_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1860_74.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1860_74.Interface.topology.10
+
+[SB1860_74_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,        %KSNAME_MS_Topology%,       SB1860_74.Interface.topology.10
+AddInterface=%KSCATEGORY_TOPOLOGY%,     %KSNAME_MS_Topology%,       SB1860_74.Interface.topology.10
+
+
+[SB1860_76_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SB1860_76.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SB1860_76.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SB1860_76.Interface.Wave.11
+
+[SB1860_76_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SB1860_76.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SB1860_76.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SB1860_76.Interface.Wave.11
+
+[SB1860_76_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SB1860_76.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SB1860_76.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SB1860_76.Interface.Wave.10
+
+[SB1860_76_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SB1860_76.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SB1860_76.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SB1860_76.Interface.Wave.10
+
+
+[SB1710_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SB1710.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SB1710.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SB1710.Interface.Wave.11
+
+[SB1710_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SB1710.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SB1710.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SB1710.Interface.Wave.11
+
+[SB1710_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SB1710.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SB1710.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SB1710.Interface.Wave.10
+
+[SB1710_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SB1710.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SB1710.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SB1710.Interface.Wave.10
+
+
+[MF1705_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1705.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1705.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1705.Interface.Wave.11
+
+[MF1705_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1705.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1705.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1705.Interface.Wave.11
+
+[MF1705_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1705.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1705.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1705.Interface.Wave.10
+
+[MF1705_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1705.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1705.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1705.Interface.Wave.10
+
+
+[MF1710_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1710.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1710.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1710.Interface.Wave.11
+
+[MF1710_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1710.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1710.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1710.Interface.Wave.11
+
+[MF1710_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1710.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1710.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1710.Interface.Wave.10
+
+[MF1710_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1710.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1710.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1710.Interface.Wave.10
+
+
+[SA0190_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0190.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0190.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0190.Interface.Wave.11
+
+[SA0190_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0190.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0190.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0190.Interface.Wave.11
+
+[SA0190_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0190.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0190.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0190.Interface.Wave.10
+
+[SA0190_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0190.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0190.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0190.Interface.Wave.10
+
+
+[SA0190_LEA_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0190_LEA.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0190_LEA.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0190_LEA.Interface.Wave.11
+
+[SA0190_LEA_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0190_LEA.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0190_LEA.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0190_LEA.Interface.Wave.11
+
+[SA0190_LEA_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0190_LEA.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0190_LEA.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0190_LEA.Interface.Wave.10
+
+[SA0190_LEA_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0190_LEA.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0190_LEA.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0190_LEA.Interface.Wave.10
+
+
+[SA0180_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180.Interface.Wave.11
+[SA0180_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180.Interface.Wave.11
+
+[SA0180_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180.Interface.Wave.10
+[SA0180_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180.Interface.Wave.10
+
+
+[SA0180_3_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180_3.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180_3.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180_3.Interface.Wave.11
+
+[SA0180_3_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180_3.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180_3.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180_3.Interface.Wave.11
+
+[SA0180_3_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180_3.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180_3.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180_3.Interface.Wave.10
+
+[SA0180_3_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180_3.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180_3.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180_3.Interface.Wave.10
+
+
+[SA0180_4_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180_4.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180_4.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180_4.Interface.Wave.11
+
+[SA0180_4_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180_4.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180_4.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180_4.Interface.Wave.11
+
+[SA0180_4_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180_4.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180_4.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180_4.Interface.Wave.10
+
+[SA0180_4_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0180_4.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0180_4.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0180_4.Interface.Wave.10
+
+
+[MF1715_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1715.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1715.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1715.Interface.Wave.11
+
+[MF1715_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1715.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1715.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1715.Interface.Wave.11
+
+[MF1715_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1715.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1715.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1715.Interface.Wave.10
+
+[MF1715_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF1715.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF1715.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF1715.Interface.Wave.10
+
+
+[MF0495_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          MF0495.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         MF0495.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        MF0495.Interface.Wave.11
+
+[MF0495_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF0495.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF0495.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF0495.Interface.Wave.11
+
+[MF0495_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          MF0495.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         MF0495.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        MF0495.Interface.Wave.10
+
+[MF0495_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF0495.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF0495.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF0495.Interface.Wave.10
+
+
+[SA0210_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          SA0210.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         SA0210.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        SA0210.Interface.Wave.11
+
+[SA0210_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0210.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0210.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0210.Interface.Wave.11
+
+[SA0210_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          SA0210.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         SA0210.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        SA0210.Interface.Wave.10
+
+[SA0210_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            SA0210.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           SA0210.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          SA0210.Interface.Wave.10
+
+
+[MF8460_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          MF8460.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         MF8460.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        MF8460.Interface.Wave.11
+
+[MF8460_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF8460.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF8460.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF8460.Interface.Wave.11
+
+[MF8460_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          MF8460.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         MF8460.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        MF8460.Interface.Wave.10
+
+[MF8460_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF8460.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF8460.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF8460.Interface.Wave.10
+
+
+[MF8410_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          MF8410.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         MF8410.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        MF8410.Interface.Wave.11
+
+[MF8410_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF8410.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF8410.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF8410.Interface.Wave.11
+
+[MF8410_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          MF8410.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         MF8410.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        MF8410.Interface.Wave.10
+
+[MF8410_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF8410.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF8410.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF8410.Interface.Wave.10
+
+
+[MF8470_Device.11.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          MF8470.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         MF8470.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        MF8470.Interface.Wave.11
+
+[MF8470_Device.11.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF8470.Interface.Wave.11
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF8470.Interface.Wave.11
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF8470.Interface.Wave.11
+
+[MF8470_Device.10.ntx86.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,          MF8470.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,         MF8470.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,        MF8470.Interface.Wave.10
+
+[MF8470_Device.10.ntamd64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,%KSNAME_GLOBAL%,            MF8470.Interface.Wave.10
+AddInterface=%KSCATEGORY_RENDER%,%KSNAME_GLOBAL%,           MF8470.Interface.Wave.10
+AddInterface=%KSCATEGORY_CAPTURE%,%KSNAME_GLOBAL%,          MF8470.Interface.Wave.10
+
+
+
+[SB1815.Interface.topology.11]
+AddReg = USB.CtEP_Config1815.AddReg, USB.CtEffect_Config1815.AddReg, SB1815.AddReg
+
+[SB1815.Interface.topology.10]
+AddReg = USB.CtEP_Config1815.AddReg, USB.CtEffect_Config1815.10.AddReg, SB1815.AddReg
+
+
+[ZZ0090.Interface.topology.11]
+AddReg = USB.CtEP_ConfigZZ0090.AddReg, ZZ0090.AddReg, USB.CtEffect_Config1.AddReg
+
+[ZZ0090.Interface.topology.10]
+AddReg = USB.CtEP_ConfigZZ0090.AddReg, ZZ0090.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[SA0200.Interface.topology.11]
+AddReg = USB.CtEP_ConfigSA0200.AddReg, SA0200.AddReg, USB.CtEffect_Config1.AddReg
+
+[SA0200.Interface.topology.10]
+AddReg = USB.CtEP_ConfigSA0200.AddReg, SA0200.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[SB1820.Interface.topology.11]
+AddReg = USB.CtEP_ConfigSB1820.AddReg, SB1820.AddReg, USB.CtEffect_Config1.AddReg
+
+[SB1820.Interface.topology.10]
+AddReg = USB.CtEP_ConfigSB1820.AddReg, SB1820.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[SB1860_74.Interface.topology.11]
+AddReg = USB.CtEP_ConfigSB1860_74.AddReg, SB1860_74.AddReg, USB.CtEffect_HP_MIC_Config1.AddReg
+
+[SB1860_74.Interface.topology.10]
+AddReg = USB.CtEP_ConfigSB1860_74.AddReg, SB1860_74.AddReg, USB.CtEffect_HP_MIC_Config1.10.AddReg
+
+
+[SB1860_76.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigSB1860_76.AddReg, SB1860_76.AddReg, USB.CtEffect_HP_MIC_Config1.AddReg
+
+[SB1860_76.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigSB1860_76.AddReg, SB1860_76.AddReg, USB.CtEffect_HP_MIC_Config1.10.AddReg
+
+
+[SB1710.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigSB1710.AddReg, SB1710.AddReg, USB.CtEffect_Config1.AddReg
+
+[SB1710.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigSB1710.AddReg, SB1710.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[MF1705.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigMF1705.AddReg, MF1705.AddReg, USB.CtEffect_Config1.AddReg
+
+[MF1705.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigMF1705.AddReg, MF1705.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[MF1710.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigMF1710.AddReg, MF1710.AddReg, USB.CtEffect_Config1.AddReg
+
+[MF1710.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigMF1710.AddReg, MF1710.AddReg, USB.CtEffect_Config1.10.AddReg
+
+[SA0190.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigSA0190.AddReg, SA0190.AddReg, USB.CtEffect_Config1.AddReg
+
+[SA0190.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigSA0190.AddReg, SA0190.AddReg, USB.CtEffect_Config1.10.AddReg
+
+[SA0190_LEA.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigSA0190.AddReg, SA0190.AddReg, USB.CtEffect_Config1.AddReg
+
+[SA0190_LEA.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigSA0190.AddReg, SA0190.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[SA0180.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigSA0180.AddReg, SA0180.AddReg, USB.CtEffect_Config1.AddReg
+
+[SA0180.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigSA0180.AddReg, SA0180.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[SA0180_3.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigSA0180_3.AddReg, SA0180_3.AddReg, USB.CtEffect_Config1.AddReg
+
+[SA0180_3.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigSA0180_3.AddReg, SA0180_3.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[SA0180_4.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigSA0180_4.AddReg, SA0180_4.AddReg, USB.CtEffect_Config1.AddReg
+
+[SA0180_4.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigSA0180_4.AddReg, SA0180_4.AddReg, USB.CtEffect_Config1.10.AddReg
+
+[MF1715.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigMF1715.AddReg, MF1715.AddReg, USB.CtEffect_Config1.AddReg
+
+[MF1715.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigMF1715.AddReg, MF1715.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[MF0495.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigMF0495.AddReg, MF0495.AddReg, USB.CtEffect_Config1.AddReg
+
+[MF0495.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigMF0495.AddReg, MF0495.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[SA0210.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigSA0210.AddReg, SA0210.AddReg, USB.CtEffect_Config1.AddReg
+
+[SA0210.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigSA0210.AddReg, SA0210.AddReg, USB.CtEffect_Config1.10.AddReg
+
+
+[MF8460.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigMf8460.AddReg, MF8460.AddReg, USB.CtEffect_Config1.AddReg, USB.CtEffect_ConfigMF8460.AddReg, USB.CtEffect_PPageConfig.AddReg 
+
+[MF8460.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigMF8460.AddReg, MF8460.AddReg, USB.CtEffect_Config1.10.AddReg, USB.CtEffect_ConfigMF8460.AddReg, USB.CtEffect_PPageConfig.AddReg
+
+
+[MF8410.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigMf8410.AddReg, MF8410.AddReg, USB.CtEffect_Config1.AddReg, USB.CtEffect_ConfigMF8410.AddReg, USB.CtEffect_PPageConfig.AddReg
+
+[MF8410.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigMF8410.AddReg, MF8410.AddReg, USB.CtEffect_Config1.10.AddReg, USB.CtEffect_ConfigMF8410.AddReg, USB.CtEffect_PPageConfig.AddReg
+
+
+[MF8470.Interface.Wave.11]
+AddReg = USB.CtEP_ConfigMf8470.AddReg, MF8470.AddReg, USB.CtEffect_Config1.AddReg, USB.CtEffect_ConfigMF8470.AddReg 
+
+[MF8470.Interface.Wave.10]
+AddReg = USB.CtEP_ConfigMF8470.AddReg, MF8470.AddReg, USB.CtEffect_Config1.10.AddReg, USB.CtEffect_ConfigMF8470.AddReg
+
+
+
+[USB.CtEffect_Config1.AddReg]
+HKR,"FX\0",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\0",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0",%PKEY_SYSFX_UiClsid%,,%MS_FX_UI_NULL%
+HKR,"FX\0",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\0",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\0",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\0",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+;;Effect configuration and settings ....
+;; Other Context
+HKR,"FX\0\%CTAPO_CONTEXT%\",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_DEFAULT%",,,
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_VOLATILE%",,,
+
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%PKEY_SpeakerEQ_Enable%,0x00000001,0B,00,63,00,01,00,00,00,01,00,00,00
+
+;Scout Mode (Speaker)
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+
+;; Headphone Context
+;HKR,"FX\0\%CTAPO_CONTEXT_HP%\",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_DEFAULT%",,,
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_VOLATILE%",,,
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%PKEY_SpeakerEQ_Enable%,1,0b,00,53,00,01,00,00,00,01,00,00,00
+
+;Scout Mode (Headphone)
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+
+HKR,"FX\1",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\1",%PKEY_FX_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"FX\1",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\1",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\1",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\1",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+HKR,FX\1\%CTAPO_CONTEXT%,%PKEY_FX_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,FX\1\%CTAPO_CONTEXT%\%SUB_DEFAULT%,,,
+HKR,FX\1\%CTAPO_CONTEXT%\%SUB_VOLATILE%,,,
+HKR,FX\1\%CTAPO_CONTEXT%\%SUB_USER%,,,
+
+; DA CSI
+HKR,"FX\1\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_THX_AEC_DA_CrossCorrelationSkipInterval%,0x10001,0x00000008
+HKR,"FX\1\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_GFX_Buffer_Time%,0x10001,0x000007d0
+
+[USB.CtEffect_Config1.10.AddReg]
+HKR,"FX\0",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\0",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0",%PKEY_SYSFX_UiClsid%,,%MS_FX_UI_NULL%
+HKR,"FX\0",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\0",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\0",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\0",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+;;Effect configuration and settings ....
+HKR,"FX\0",%PKEY_SpeakerEQ_Enable%,0x00000001,0B,00,63,00,01,00,00,00,01,00,00,00
+
+;Scout Mode (Speaker)
+HKR,"FX\0",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\0",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+; Microphone 
+HKR,"FX\1",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\1",%PKEY_FX_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"FX\1",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\1",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\1",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\1",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+; DA CSI
+HKR,"FX\1",%CTPKEY_THX_AEC_DA_CrossCorrelationSkipInterval%,0x10001,0x00000008
+HKR,"FX\1",%CTPKEY_GUID_GFX_Buffer_Time%,0x10001,0x000007d0
+
+[USB.CtEffect_HP_MIC_Config1.AddReg]
+HKR,"FX\0",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\0",%PKEY_FX_Association%,,%KSNODETYPE_HEADPHONES%
+HKR,"FX\0",%PKEY_SYSFX_UiClsid%,,%MS_FX_UI_NULL%
+HKR,"FX\0",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\0",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\0",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\0",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+;;Effect configuration and settings ....
+;; Other Context
+HKR,"FX\0\%CTAPO_CONTEXT%\",%PKEY_FX_Association%,,%KSNODETYPE_HEADPHONES%
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_DEFAULT%",,,
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_VOLATILE%",,,
+
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%PKEY_SpeakerEQ_Enable%,0x00000001,0B,00,63,00,01,00,00,00,01,00,00,00
+
+;Scout Mode (Speaker)
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+
+;; Headphone Context
+;HKR,"FX\0\%CTAPO_CONTEXT_HP%\",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\",%PKEY_FX_Association%,,%KSNODETYPE_HEADPHONES%
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_DEFAULT%",,,
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_VOLATILE%",,,
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%PKEY_SpeakerEQ_Enable%,1,0b,00,53,00,01,00,00,00,01,00,00,00
+
+;Scout Mode (Headphone)
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+
+HKR,"FX\1",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\1",%PKEY_FX_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"FX\1",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\1",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\1",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\1",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+HKR,FX\1\%CTAPO_CONTEXT%,%PKEY_FX_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,FX\1\%CTAPO_CONTEXT%\%SUB_DEFAULT%,,,
+HKR,FX\1\%CTAPO_CONTEXT%\%SUB_VOLATILE%,,,
+HKR,FX\1\%CTAPO_CONTEXT%\%SUB_USER%,,,
+
+; DA CSI
+HKR,"FX\1\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_THX_AEC_DA_CrossCorrelationSkipInterval%,0x10001,0x00000008
+HKR,"FX\1\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_GFX_Buffer_Time%,0x10001,0x000007d0
+
+[USB.CtEffect_HP_MIC_Config1.10.AddReg]
+HKR,"FX\0",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\0",%PKEY_FX_Association%,,%KSNODETYPE_HEADPHONES%
+HKR,"FX\0",%PKEY_SYSFX_UiClsid%,,%MS_FX_UI_NULL%
+HKR,"FX\0",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\0",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\0",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\0",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+;;Effect configuration and settings ....
+HKR,"FX\0",%PKEY_SpeakerEQ_Enable%,0x00000001,0B,00,63,00,01,00,00,00,01,00,00,00
+
+;Scout Mode (Speaker)
+HKR,"FX\0",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\0",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+; Microphone 
+HKR,"FX\1",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\1",%PKEY_FX_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"FX\1",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\1",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\1",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\1",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+; DA CSI
+HKR,"FX\1",%CTPKEY_THX_AEC_DA_CrossCorrelationSkipInterval%,0x10001,0x00000008
+HKR,"FX\1",%CTPKEY_GUID_GFX_Buffer_Time%,0x10001,0x000007d0
+
+
+[USB.CtEffect_PPageConfig.AddReg]
+HKR,"FX\0",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0",%PKEY_SYSFX_UiClsid%,,%SYSFX_UI_CLSID_KS%
+
+[USB.CtEP_ConfigZZ0090.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"ZZ0090.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"ZZ0090.ico"
+
+[ZZ0090.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%ZZ0090.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%ZZ0090.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%ZZ0090.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%ZZ0090.DeviceDesc%
+
+HKR,"Product",Name,,%ZZ0090.Product%
+HKR,"DevName",%WaveOutDevName%,,%ZZ0090.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%ZZ0090.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%ZZ0090.Topology.szPname%
+
+HKR,,FriendlyName,,%ZZ0090.Wave.szPname%
+
+
+[USB.CtEP_ConfigSA0200.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0200.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE_ARRAY%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0200.ico"
+
+HKR,"EP\2",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_DIGITAL_AUDIO_INTERFACE%
+HKR,"EP\2",%CTPKEY_CUSTOM_CTAPP_ENDPT_STR%,,%ENDPOINT_WUH_Name%
+HKR,"EP\2",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0200.ico"
+
+[SA0200.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SA0200.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SA0200.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SA0200.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SA0200.DeviceDesc%
+
+HKR,"Product",Name,,%SA0200.Product%
+HKR,"DevName",%WaveOutDevName%,,%SA0200.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SA0200.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SA0200.Topology.szPname%
+
+HKR,,FriendlyName,,%SA0200.Wave.szPname%
+
+
+[USB.CtEP_ConfigSB1820.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1820.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1820.ico"
+
+HKR,"EP\2",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPDIF_INTERFACE%
+HKR,"EP\2",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1820.ico"
+
+HKR,"EP\3",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_LINE_CONNECTOR%
+HKR,"EP\3",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1820.ico"
+
+HKR,"EP\4",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_DIGITAL_AUDIO_INTERFACE%
+HKR,"EP\4",%CTPKEY_CUSTOM_CTAPP_ENDPT_STR%,,%ENDPOINT_WUH_Name%
+HKR,"EP\4",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1820.ico"
+
+HKR,"EP\5",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_RADIO_RECEIVER%
+HKR,"EP\5",%CTPKEY_CUSTOM_CTAPP_ENDPT_STR%,,%ENDPOINT_BLUETOOTH_Name%
+HKR,"EP\5",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1820.ico"
+
+
+[SB1820.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SB1820.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SB1820.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SB1820.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SB1820.DeviceDesc%
+
+HKR,"Product",Name,,%SB1820.Product%
+HKR,"DevName",%WaveOutDevName%,,%SB1820.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SB1820.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SB1820.Topology.szPname%
+
+HKR,,FriendlyName,,%SB1820.Wave.szPname%
+
+
+[USB.CtEP_ConfigSB1860_74.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_HEADPHONES%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1860.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1860.ico"
+
+[SB1860_74.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SB1860_74.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SB1860_74.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SB1860_74.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SB1860_74.DeviceDesc%
+
+HKR,"Product",Name,,%SB1860_74.Product%
+HKR,"DevName",%WaveOutDevName%,,%SB1860_74.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SB1860_74.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SB1860_74.Topology.szPname%
+
+HKR,,FriendlyName,,%SB1860_74.Wave.szPname%
+
+
+[USB.CtEP_ConfigSB1860_76.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_HEADPHONES%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1860.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1860.ico"
+
+[SB1860_76.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SB1860_76.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SB1860_76.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SB1860_76.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SB1860_76.DeviceDesc%
+
+HKR,"Product",Name,,%SB1860_76.Product%
+HKR,"DevName",%WaveOutDevName%,,%SB1860_76.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SB1860_76.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SB1860_76.Topology.szPname%
+
+HKR,,FriendlyName,,%SB1860_76.Wave.szPname%
+
+
+[USB.CtEP_ConfigSB1710.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1710.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1710.ico"
+
+[SB1710.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SB1710.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SB1710.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SB1710.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SB1710.DeviceDesc%
+
+HKR,"Product",Name,,%SB1710.Product%
+HKR,"DevName",%WaveOutDevName%,,%SB1710.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SB1710.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SB1710.Topology.szPname%
+
+HKR,,FriendlyName,,%SB1710.Wave.szPname%
+
+
+[USB.CtEP_ConfigMF1705.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF1705.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF1705.ico"
+
+[MF1705.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%MF1705.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%MF1705.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%MF1705.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%MF1705.DeviceDesc%
+
+HKR,"Product",Name,,%MF1705.Product%
+HKR,"DevName",%WaveOutDevName%,,%MF1705.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%MF1705.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%MF1705.Topology.szPname%
+
+HKR,,FriendlyName,,%MF1705.Wave.szPname%
+
+
+[USB.CtEP_ConfigMF1710.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF1710.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF1710.ico"
+
+[MF1710.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%MF1710.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%MF1710.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%MF1710.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%MF1710.DeviceDesc%
+
+HKR,"Product",Name,,%MF1710.Product%
+HKR,"DevName",%WaveOutDevName%,,%MF1710.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%MF1710.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%MF1710.Topology.szPname%
+
+HKR,,FriendlyName,,%MF1710.Wave.szPname%
+
+
+[USB.CtEP_ConfigSA0190.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0190.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0190.ico"
+
+[SA0190.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SA0190.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SA0190.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SA0190.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SA0190.DeviceDesc%
+
+HKR,"Product",Name,,%SA0190.Product%
+HKR,"DevName",%WaveOutDevName%,,%SA0190.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SA0190.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SA0190.Topology.szPname%
+
+HKR,,FriendlyName,,%SA0190.Wave.szPname%
+
+
+[USB.CtEP_ConfigSA0180.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0180.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0180.ico"
+
+[SA0180.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SA0180.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SA0180.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SA0180.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SA0180.DeviceDesc%
+
+HKR,"Product",Name,,%SA0180.Product%
+HKR,"DevName",%WaveOutDevName%,,%SA0180.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SA0180.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SA0180.Topology.szPname%
+
+HKR,,FriendlyName,,%SA0180.Wave.szPname%
+
+
+[USB.CtEP_ConfigSA0180_3.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0180_3.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0180_3.ico"
+
+[SA0180_3.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SA0180_3.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SA0180_3.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SA0180_3.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SA0180_3.DeviceDesc%
+
+HKR,"Product",Name,,%SA0180_3.Product%
+HKR,"DevName",%WaveOutDevName%,,%SA0180_3.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SA0180_3.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SA0180_3.Topology.szPname%
+
+HKR,,FriendlyName,,%SA0180_3.Wave.szPname%
+
+
+[USB.CtEP_ConfigSA0180_4.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0180_4.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0180_4.ico"
+
+[SA0180_4.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SA0180_4.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SA0180_4.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SA0180_4.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SA0180_4.DeviceDesc%
+
+HKR,"Product",Name,,%SA0180_4.Product%
+HKR,"DevName",%WaveOutDevName%,,%SA0180_4.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SA0180_4.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SA0180_4.Topology.szPname%
+
+HKR,,FriendlyName,,%SA0180_4.Wave.szPname%
+
+
+[USB.CtEP_ConfigMF1715.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF1715.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF1715.ico"
+
+[MF1715.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%MF1715.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%MF1715.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%MF1715.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%MF1715.DeviceDesc%
+
+HKR,"Product",Name,,%MF1715.Product%
+HKR,"DevName",%WaveOutDevName%,,%MF1715.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%MF1715.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%MF1715.Topology.szPname%
+
+HKR,,FriendlyName,,%MF1715.Wave.szPname%
+
+
+[USB.CtEP_ConfigMF0495.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF0495.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF0495.ico"
+
+[MF0495.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%MF0495.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%MF0495.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%MF0495.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%MF0495.DeviceDesc%
+
+HKR,"Product",Name,,%MF0495.Product%
+HKR,"DevName",%WaveOutDevName%,,%MF0495.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%MF0495.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%MF0495.Topology.szPname%
+
+HKR,,FriendlyName,,%MF0495.Wave.szPname%
+
+
+[USB.CtEP_ConfigSA0210.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0210.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SA0210.ico"
+
+[SA0210.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SA0210.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SA0210.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SA0210.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SA0210.DeviceDesc%
+
+HKR,"Product",Name,,%SA0210.Product%
+HKR,"DevName",%WaveOutDevName%,,%SA0210.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SA0210.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SA0210.Topology.szPname%
+
+HKR,,FriendlyName,,%SA0210.Wave.szPname%
+
+
+[USB.CtEP_ConfigMF8460.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF8460.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF8460.ico"
+
+[USB.CtEffect_ConfigMF8460.AddReg]
+HKR,"FX\0\%CTAPO_CONTEXT%\",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_ExtSpkr_StereoEnhance_PresetFile%,,%%ProgramData%%\Creative\Presets\SBSpkrSE_MF8460.cfg
+
+[MF8460.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%MF8460.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%MF8460.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%MF8460.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%MF8460.DeviceDesc%
+
+HKR,"Product",Name,,%MF8460.Product%
+HKR,"DevName",%WaveOutDevName%,,%MF8460.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%MF8460.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%MF8460.Topology.szPname%
+
+HKR,,FriendlyName,,%MF8460.Wave.szPname%
+
+
+[USB.CtEP_ConfigMF8410.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF8410.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF8410.ico"
+
+[USB.CtEffect_ConfigMF8410.AddReg]
+HKR,"FX\0\%CTAPO_CONTEXT%\",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_ExtSpkr_StereoEnhance_PresetFile%,,%%ProgramData%%\Creative\Presets\SBSpkrSE_MF8410.cfg
+
+[MF8410.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%MF8410.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%MF8410.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%MF8410.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%MF8410.DeviceDesc%
+
+HKR,"Product",Name,,%MF8410.Product%
+HKR,"DevName",%WaveOutDevName%,,%MF8410.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%MF8410.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%MF8410.Topology.szPname%
+
+HKR,,FriendlyName,,%MF8410.Wave.szPname%
+
+
+[USB.CtEP_ConfigMF8470.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF8470.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"MF8470.ico"
+
+[USB.CtEffect_ConfigMF8470.AddReg]
+HKR,"FX\0\%CTAPO_CONTEXT%\",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+
+[MF8470.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%MF8470.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%MF8470.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%MF8470.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%MF8470.DeviceDesc%
+
+HKR,"Product",Name,,%MF8470.Product%
+HKR,"DevName",%WaveOutDevName%,,%MF8470.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%MF8470.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%MF8470.Topology.szPname%
+
+HKR,,FriendlyName,,%MF8470.Wave.szPname%
+
+
+
+[USB.CtEP_Config1815.AddReg]
+;; render endpoint settings
+HKR,"EP\0",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"EP\0",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1815.ico"
+
+HKR,"EP\1",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_SPDIF_INTERFACE%
+HKR,"EP\1",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1815.ico"
+
+HKR,"EP\2",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"EP\2",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1815.ico"
+
+HKR,"EP\3",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_LINE_CONNECTOR%
+HKR,"EP\3",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1815.ico"
+
+HKR,"EP\4",%PKEY_AudioEndpoint_Association%,,%KSNODETYPE_DIGITAL_AUDIO_INTERFACE%
+HKR,"EP\4",%CTPKEY_CUSTOM_CTAPP_ENDPT_STR%,,%ENDPOINT_WUH_Name%
+HKR,"EP\4",%CTPKEY_CUSTOM_CTAPP_ENDPT_ICO%,,"SB1815.ico"
+
+[SB1815.AddReg]
+HKR,Drivers\wave\wdmaud.drv, Description,,%SB1815.DeviceDesc%
+HKR,Drivers\midi\wdmaud.drv,Description,,%SB1815.DeviceDesc%
+HKR,Drivers\mixer\wdmaud.drv,Description,,%SB1815.DeviceDesc%
+HKR,Drivers\aux\wdmaud.drv,  Description,,%SB1815.DeviceDesc%
+
+HKR,"Product",Name,,%SB1815.Product%
+HKR,"DevName",%WaveOutDevName%,,%SB1815.Wave.szPname%
+HKR,"DevName",%WaveInDevName%,,%SB1815.Wave.szPname%
+HKR,"DevName",%MixerDevName%,,%SB1815.Topology.szPname%
+
+HKR,,FriendlyName,,%SB1815.Wave.szPname%
+
+
+[USB.CtEffect_Config1815.AddReg]
+HKR,"FX\0",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+;HKR,"FX\0",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0",%PKEY_SYSFX_PreMixClsid%,,%SYSFX_PREMIX_CLSID_KS%
+HKR,"FX\0",%PKEY_SYSFX_PostMixClsid%,,%SYSFX_POSTMIX_CLSID_KS%
+HKR,"FX\0",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\0",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\0",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\0",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+;;Effect configuration and settings ....
+;; Other Context
+HKR,"FX\0\%CTAPO_CONTEXT%\",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\0\%CTAPO_CONTEXT%\",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_DEFAULT%",,,
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_VOLATILE%",,,
+
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_THX_Calibrator_Headroom%,1,04,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%PKEY_SpeakerEQ_Enable%,0x00000001,0B,00,63,00,01,00,00,00,01,00,00,00
+
+;Scout Mode (Speaker)
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+;; Headphone Context
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_DEFAULT%",,,
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_VOLATILE%",,,
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_THX_Calibrator_Headroom%,1,04,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%PKEY_SpeakerEQ_Enable%,1,0b,00,53,00,01,00,00,00,01,00,00,00
+
+;Scout Mode (Headphone)
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+HKR,"FX\1",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\1",%PKEY_SYSFX_PreMixClsid%,,%SYSFX_PREMIX_CLSID_KS%
+HKR,"FX\1",%PKEY_SYSFX_PostMixClsid%,,%SYSFX_POSTMIX_CLSID_KS%
+;;HKR,"FX\1",%PKEY_FX_Association%,,%KSNODETYPE_HEADPHONES%
+HKR,"FX\1",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\1",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\1",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\1",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\",%PKEY_FX_Association%,,%KSNODETYPE_HEADPHONES%
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_DEFAULT%",,,
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_VOLATILE%",,,
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",,,
+
+;Scout Mode (Headphone)
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\1\%CTAPO_CONTEXT_HP%\%SUB_USER%",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+; SPDIF Out effects...
+HKR,"FX\2",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\2",%PKEY_SYSFX_PreMixClsid%,,%SYSFX_PREMIX_CLSID_KS%
+HKR,"FX\2",%PKEY_SYSFX_PostMixClsid%,,%KS_CHAN_POSTMIX_CLSID%
+;;HKR,"FX\2",%PKEY_FX_Association%,,%KSNODETYPE_SPDIF_INTERFACE%
+HKR,"FX\2",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\2",%PKEY_FX_ModeEffectClsid%,,%KS_CHAN_MFX_CLSID%
+HKR,"FX\2",%PKEY_FX_EndpointEffectClsid%,,%KS_CHAN_EFX_CLSID%
+HKR,"FX\2",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\2",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\2",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+HKR,"FX\2\%CTAPO_CONTEXT%\",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\2\%CTAPO_CONTEXT%\",%PKEY_FX_Association%,,%KSNODETYPE_SPDIF_INTERFACE%
+
+HKR,"FX\2\%CTAPO_CONTEXT%\%SUB_DEFAULT%",,,
+HKR,"FX\2\%CTAPO_CONTEXT%\%SUB_VOLATILE%",,,
+HKR,"FX\2\%CTAPO_CONTEXT%\%SUB_USER%",,,
+
+;;2 chanined apo
+HKR,"FX\2",%PKEY_GFX_APO1%,,%CTAPO_EFX_CLSID%
+HKR,"FX\2",%PKEY_GFX_APO2%,,%KSDGFX_CLSID%
+HKR,"FX\2",%PKEY_EFX_APO1%,,%CTAPO_EFX_CLSID%
+HKR,"FX\2",%PKEY_EFX_APO2%,,%KSDGFX_CLSID%
+HKR,"FX\2",%PKEY_APO_NUM%,0x10001,%NUM_APO_SET%
+HKR,"FX\2",%PKEY_Chain_Encoder%,0x00000001,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\2",%CTPKEY_Force_PhysicalSpeakers_with_Encoder%,0x10001,0x0000003F
+
+;This Key is need for digital encoder (Dolby or DTS) Selection
+HKR,"FX\2",%PKEY_DGFX_Encoder_Selection%,0x00010001,0x00000002  ; Select DDL
+
+; Microphone effects ...
+HKR,"FX\3",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\3",%PKEY_FX_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"FX\3",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\3",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\3",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\3",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\3",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\3",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+HKR,FX\3\%CTAPO_CONTEXT%,%PKEY_FX_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,FX\3\%CTAPO_CONTEXT%\%SUB_DEFAULT%,,,
+HKR,FX\3\%CTAPO_CONTEXT%\%SUB_VOLATILE%,,,
+HKR,FX\3\%CTAPO_CONTEXT%\%SUB_USER%,,,
+; DA CSI
+HKR,"FX\3\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_THX_AEC_DA_CrossCorrelationSkipInterval%,0x10001,0x00000008
+HKR,"FX\3\%CTAPO_CONTEXT%\%SUB_USER%",%CTPKEY_GUID_GFX_Buffer_Time%,0x10001,0x000007d0
+[USB.CtEffect_Config1815.10.AddReg]
+HKR,"FX\0",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\0",%PKEY_FX_Association%,,%KSNODETYPE_SPEAKER%
+HKR,"FX\0",%PKEY_SYSFX_PreMixClsid%,,%SYSFX_PREMIX_CLSID_KS%
+HKR,"FX\0",%PKEY_SYSFX_PostMixClsid%,,%SYSFX_POSTMIX_CLSID_KS%
+HKR,"FX\0",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\0",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\0",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\0",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\0",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+;;Effect configuration and settings ....
+HKR,"FX\0",%CTPKEY_THX_Calibrator_Headroom%,1,04,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0",%PKEY_SpeakerEQ_Enable%,0x00000001,0B,00,63,00,01,00,00,00,01,00,00,00
+
+;Scout Mode (Speaker)
+HKR,"FX\0",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\0",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\0",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\0",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\0",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+HKR,"FX\1",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\1",%PKEY_SYSFX_PreMixClsid%,,%SYSFX_PREMIX_CLSID_KS%
+HKR,"FX\1",%PKEY_SYSFX_PostMixClsid%,,%SYSFX_POSTMIX_CLSID_KS%
+HKR,"FX\1",%PKEY_FX_Association%,,%KSNODETYPE_HEADPHONES%
+HKR,"FX\1",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\1",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\1",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\1",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\1",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+;Scout Mode (Headphone)
+HKR,"FX\1",%CTPKEY_GUID_SCOUT0%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+HKR,"FX\1",%CTPKEY_GUID_SCOUT1%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\1",%CTPKEY_GUID_SCOUT2%,1,04,00,00,00,01,00,00,00,66,66,66,3f
+HKR,"FX\1",%CTPKEY_GUID_SCOUT3%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\1",%CTPKEY_GUID_SCOUT4%,1,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\1",%CTPKEY_GUID_SCOUT5%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\1",%CTPKEY_GUID_SCOUT10%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\1",%CTPKEY_GUID_SCOUT11%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\1",%CTPKEY_GUID_SCOUT12%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\1",%CTPKEY_GUID_SCOUT13%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\1",%CTPKEY_GUID_SCOUT14%,1,04,00,00,00,01,00,00,00,00,00,00,c0
+HKR,"FX\1",%CTPKEY_GUID_SCOUT15%,1,04,00,00,00,01,00,00,00,00,00,00,00
+HKR,"FX\1",%CTPKEY_GUID_SCOUT16%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\1",%CTPKEY_GUID_SCOUT17%,1,04,00,00,00,01,00,00,00,00,00,80,40
+HKR,"FX\1",%CTPKEY_GUID_SCOUT18%,1,04,00,00,00,01,00,00,00,00,00,40,40
+HKR,"FX\1",%CTPKEY_GUID_SCOUT19%,1,04,00,00,00,01,00,00,00,00,00,00,40
+HKR,"FX\1",%CTPKEY_GUID_SCOUT20%,1,0b,00,63,00,00,01,00,00,00,00,00,00
+
+; SPDIF Out effects...
+HKR,"FX\2",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\2",%PKEY_SYSFX_PreMixClsid%,,%SYSFX_PREMIX_CLSID_KS%
+HKR,"FX\2",%PKEY_SYSFX_PostMixClsid%,,%KS_CHAN_POSTMIX_CLSID%
+HKR,"FX\2",%PKEY_FX_Association%,,%KSNODETYPE_SPDIF_INTERFACE%
+HKR,"FX\2",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\2",%PKEY_FX_ModeEffectClsid%,,%KS_CHAN_MFX_CLSID%
+HKR,"FX\2",%PKEY_FX_EndpointEffectClsid%,,%KS_CHAN_EFX_CLSID%
+HKR,"FX\2",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\2",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\2",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,0x00010000,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+;;2 chanined apo
+HKR,"FX\2",%PKEY_GFX_APO1%,,%CTAPO_EFX_CLSID%
+HKR,"FX\2",%PKEY_GFX_APO2%,,%KSDGFX_CLSID%
+HKR,"FX\2",%PKEY_EFX_APO1%,,%CTAPO_EFX_CLSID%
+HKR,"FX\2",%PKEY_EFX_APO2%,,%KSDGFX_CLSID%
+HKR,"FX\2",%PKEY_APO_NUM%,0x10001,%NUM_APO_SET%
+HKR,"FX\2",%PKEY_Chain_Encoder%,0x00000001,0b,00,63,00,00,01,00,00,01,00,00,00
+HKR,"FX\2",%CTPKEY_Force_PhysicalSpeakers_with_Encoder%,0x10001,0x0000003F
+
+;This Key is need for digital encoder (Dolby or DTS) Selection
+HKR,"FX\2",%PKEY_DGFX_Encoder_Selection%,0x00010001,0x00000002  ; Select DDL
+
+; Microphone effects ...
+HKR,"FX\3",%PKEY_DisplayName%,,%SYSFX_FriendlyName%
+HKR,"FX\3",%PKEY_FX_Association%,,%KSNODETYPE_MICROPHONE%
+HKR,"FX\3",%PKEY_FX_StreamEffectClsid%,,%CTAPO_SFX_CLSID%
+HKR,"FX\3",%PKEY_FX_ModeEffectClsid%,,%CTAPO_MFX_CLSID%
+HKR,"FX\3",%PKEY_FX_EndpointEffectClsid%,,%CTAPO_EFX_CLSID%
+HKR,"FX\3",%PKEY_SFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\3",%PKEY_MFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+HKR,"FX\3",%PKEY_EFX_ProcessingModes_Supported_For_Streaming%,%REG_MULTI_SZ%,%AUDIO_SIGNALPROCESSINGMODE_DEFAULT%
+
+; DA CSI
+HKR,"FX\3",%CTPKEY_THX_AEC_DA_CrossCorrelationSkipInterval%,0x10001,0x00000008
+HKR,"FX\3",%CTPKEY_GUID_GFX_Buffer_Time%,0x10001,0x000007d0
+
+
+;[USB2_Config_1.ntx86.Components]
+;AddComponent = CTAPO,,CTAPO_Install
+
+;[USB2_Config_1.ntamd64.Components]
+;AddComponent = CTAPO,,CTAPO_Install
+
+
+;[USB1_Config_1.ntx86.Components]
+;AddComponent = CTAPO,,CTAPO_Install
+
+;[USB1_Config_1.ntamd64.Components]
+;AddComponent = CTAPO,,CTAPO_Install
+
+
+[SB1815_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1815_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1815_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1815_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[ZZ0090_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[ZZ0090_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[ZZ0090_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[ZZ0090_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SA0200_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0200_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0200_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0200_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SB1820_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1820_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1820_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1820_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SB1860_74_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1860_74_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1860_74_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1860_74_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SB1860_76_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1860_76_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1860_76_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1860_76_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SB1710_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1710_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1710_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SB1710_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[MF1705_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF1705_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF1705_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF1705_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[MF1710_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF1710_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF1710_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF1710_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SA0190_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0190_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0190_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0190_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SA0190_LEA_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0190_LEA_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0190_LEA_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0190_LEA_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SA0180_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0180_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0180_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0180_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SA0180_3_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0180_3_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0180_3_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0180_3_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SA0180_4_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0180_4_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0180_4_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0180_4_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[MF1715_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF1715_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF1715_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF1715_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[MF0495_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF0495_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF0495_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF0495_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[SA0210_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0210_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0210_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[SA0210_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[MF8460_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF8460_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF8460_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF8460_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[MF8410_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF8410_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF8410_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF8410_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+[MF8470_Device.11.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF8470_Device.11.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF8470_Device.10.ntx86.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+[MF8470_Device.10.ntamd64.Components]
+AddComponent = CTAPO,,CTAPO_Install
+
+
+
+[CTAPO_Install]
+ComponentIDs = VID_041E&AID_0001
+Description = "Creative Audio Effects Component"
+
+
+[Strings]
+Creative                                    = "Creative Technology Ltd."
+ExtensionDesc                               = "Creative Device Extension"
+DiskId1                                     = "Creative Device Extension Installer"
+
+KSNAME_GLOBAL                               = "GLOBAL"
+
+KSNAME_MS_Topology                          ="msft_topo"
+KSNAME_MS_Wave                              ="msft_wave"
+
+SYSFX_FriendlyName                          = "Creative System Effect"
+
+ENDPOINT_Speaker_Name                       = "Speakers"
+ENDPOINT_WUH_Name                           = "What U Hear"
+ENDPOINT_SPDIFIN_Name                       = "SPDIF In"
+ENDPOINT_BLUETOOTH_Name                     = "Bluetooth"
+
+KSCATEGORY_AUDIO                            = "{6994AD04-93EF-11D0-A3CC-00A0C9223196}"
+KSCATEGORY_RENDER                           = "{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE                          = "{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_TOPOLOGY                         = "{DDA54A40-1E4C-11D1-A050-405705C10000}"
+KSCATEGORY_REALTIME                         = "{EB115FFC-10C8-4964-831D-6DCB02E6F23F}"
+
+KSNODETYPE_ANY                              = "{00000000-0000-0000-0000-000000000000}"
+KSNODETYPE_SPEAKER                          = "{DFF21CE1-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_HEADPHONES                       = "{DFF21CE2-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_LINE_CONNECTOR                   = "{DFF21FE3-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_DESKTOP_SPEAKER                  = "{DFF21CE4-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_HEADSET_SPEAKERS                 = "{DFF21CE6-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_MICROPHONE                       = "{DFF21BE1-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_DESKTOP_MICROPHONE               = "{DFF21BE2-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_MICROPHONE_ARRAY                 = "{DFF21BE5-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_PROCESSING_MICROPHONE_ARRAY      = "{DFF21BE6-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_HEADSET                          = "{DFF21DE2-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_DIGITAL_AUDIO_INTERFACE          = "{DFF21FE2-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_SPDIF_INTERFACE                  = "{DFF21FE5-F70F-11D0-B917-00A0C9223196}"
+KSNODETYPE_RADIO_RECEIVER                   = "{DFF220F0-F70F-11D0-B917-00A0C9223196}"
+
+PKEY_DisplayName                            = "{B725F130-47EF-101A-A5F1-02608C9EEBAC},10"
+PKEY_AudioEndpoint_Association              = "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},2"
+PKEY_FX_Association                         = "{D04E05A6-594B-4FB6-A80D-01AF5EED7D1D},0"
+PKEY_SYSFX_PreMixClsid                      = "{D04E05A6-594B-4FB6-A80D-01AF5EED7D1D},1"
+PKEY_SYSFX_PostMixClsid                     = "{D04E05A6-594B-4FB6-A80D-01AF5EED7D1D},2"
+PKEY_SYSFX_UiClsid                          = "{D04E05A6-594B-4FB6-A80D-01AF5EED7D1D},3"
+PKEY_FX_StreamEffectClsid                   = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},5"
+PKEY_FX_ModeEffectClsid                     = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},6"
+PKEY_FX_EndpointEffectClsid                 = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},7"
+PKEY_FX_Offload_StreamEffectClsid           = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},11"
+PKEY_FX_Offload_ModeEffectClsid             = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},12"
+PKEY_CompositeFX_StreamEffectClsid          = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},13"
+PKEY_CompositeFX_ModeEffectClsid            = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},14"
+PKEY_CompositeFX_EndpointEffectClsid        = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},15"
+PKEY_CompositeFX_Offload_StreamEffectClsid  = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},19"
+PKEY_CompositeFX_Offload_ModeEffectClsid    = "{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},20"
+
+PKEY_SFX_ProcessingModes_Supported_For_Streaming            = "{D3993A3F-99C2-4402-B5EC-A92A0367664B},5"
+PKEY_MFX_ProcessingModes_Supported_For_Streaming            = "{D3993A3F-99C2-4402-B5EC-A92A0367664B},6"
+PKEY_EFX_ProcessingModes_Supported_For_Streaming            = "{D3993A3F-99C2-4402-B5EC-A92A0367664B},7"
+PKEY_SFX_Offload_ProcessingModes_Supported_For_Streaming    = "{D3993A3F-99C2-4402-B5EC-A92A0367664B},11"
+PKEY_MFX_Offload_ProcessingModes_Supported_For_Streaming    = "{D3993A3F-99C2-4402-B5EC-A92A0367664B},12"
+
+
+;; CAPX sub key strings
+SUB_USER 		                        = "User"
+SUB_DEFAULT 	                        = "Default"
+SUB_VOLATILE 	                        = "Volatile"
+
+CTAPO_CONTEXT                           = "{852311BC-1AFB-454E-92CA-C35252CACAAF}"
+CTAPO_CONTEXT_HP                        = "{3F5F306B-A033-4F19-843D-1C44A736FF4D}"
+
+PKEY_EFFECTNODEINFO_RENDER_IEFX         = "{F1056047-B091-4d85-A5C0-B13D4D8BAC57},0"
+PKEY_EFFECTNODEINFO_CAPTURE_IEFX        = "{F1056047-B091-4d85-A5C0-B13D4D8BAC57},1"
+PKEY_CommandRouter_SettingsOverride     = "{BB282A80-2A05-4c17-AA45-9910F8F7D30D},0"
+PKEY_Endpoint_SettingsOverride          = "{872572B3-2F9B-4fd1-83C7-4E3039AEFBF1},0"
+PKEY_Endpoint_SettingsOverride2         = "{872572B4-2F9B-4fd1-83C7-4E3039AEFBF1},0"
+PKEY_SpeakerConfig_HeadphoneOverride    = "{E8D2D16C-A666-44a0-BB77-3051F7384D22},0"
+PKEY_SpeakerEQ_Enable                   = "{42F4281E-8326-4006-B8FF-15F02E969077},0"
+PKEY_IntSpkr_SpeakerEQ_PresetFile       = "{F7E70860-8EB1-4c6a-B2E1-1033B409FF5D},1"
+PKEY_StereoEnhance_Enable               = "{E983F57C-39FE-45AE-B95A-9B6D4B949E68},0"
+PKEY_IntSpkr_StereoEnhance_PresetFile   = "{1B54ED57-807C-47A9-9658-EFEF2C383DA9},1"
+
+PKEY_AudioDevice_EnableEndpointByDefault              = "{F3E80BEF-1723-4FF2-BCC4-7F83DC5E46D4},4"
+PKEY_AudioEngine_OEMFormat                            = "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"
+PKEY_AudioEngine_OEMFormat_FLOAT                      = "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},0"
+PKEY_AudioEngine_DeviceFormat                         = "{f19f064d-082c-4e27-bc73-6882a1bb8e4c},0"
+
+; Creative Chaining Property Keys
+PKEY_APO_NUM            = "{d46c4dfd-28b8-4ab8-a45d-70399958ef26},0"
+PKEY_GFX_APO1           = "{e1032fc5-ddab-4c4b-9940-8a6be78a4db6},0"
+PKEY_GFX_APO2           = "{e1032fc5-ddab-4c4b-9940-8a6be78a4db6},1"
+PKEY_MFX_APO1           = "{734FF22D-BA52-49a7-849D-B352F6C4F456},0"
+PKEY_MFX_APO2           = "{734FF22D-BA52-49a7-849D-B352F6C4F456},1"
+PKEY_EFX_APO1           = "{45840A41-6782-44b8-89DB-F6DE1C1AECCC},0"
+PKEY_EFX_APO2           = "{45840A41-6782-44b8-89DB-F6DE1C1AECCC},1"
+NUM_APO_SET             = 0x2
+
+PKEY_Chain_Encoder	            = "{03C89A4E-CCF3-4f3e-98E1-22CB05513326},0"
+
+MS_FX_UI_NULL                   = "{00000000-0000-0000-0000-000000000000}"
+SYSFX_UI_CLSID_KS               = "{686C4AE7-23B3-4387-8C5E-A945F4610AFF}"
+SYSFX_PREMIX_CLSID_KS           = "{DA3AD2CF-79F9-41B7-BE44-753ADEEC2EDD}"
+SYSFX_POSTMIX_CLSID_KS          = "{CA854A19-6601-407B-8AFB-CB5C2801AFE6}"
+
+; KS APO Chainer GUIDs
+KS_CHAN_UI_CLSID      = "{AF93BD93-CB7B-4ad0-9164-6BC1523FE638}"
+KS_CHAN_PREMIX_CLSID  = "{254E8DEF-A6D4-4e41-8114-E284F877E703}"
+KS_CHAN_POSTMIX_CLSID = "{E7C0C8E7-65A8-492d-9DD1-97BF2022DAE1}"
+KS_CHAN_MFX_CLSID     = "{6E623752-66A4-4281-BD29-D9DA22328623}"
+KS_CHAN_EFX_CLSID     = "{CC401F70-ACFB-4FBD-9F14-20E7CEF2E1A3}"
+
+;;This key is need for APOIM determine the GUID to check against
+PKEY_EncoderLFX_Overwrite                           = "{C8A55F5E-7335-4a46-9C1A-E2779B36DEE0},0"
+PKEY_EncoderGFX_Overwrite                           = "{C8A55F5E-7335-4a46-9C1A-E2779B36DEE0},1"
+
+PKEY_ChainerLFX_Overwrite                           = "{5AD3317E-0E97-4ec4-80C1-17245B3E620B},0"
+PKEY_ChainerGFX_Overwrite                           = "{5AD3317E-0E97-4ec4-80C1-17245B3E620B},1"
+
+;;  digital encoder (Dolby or DTS) keys.
+PKEY_DGFX_Encoder_Selection		                    = "{D04E05A6-594B-4FB6-A80D-01AF5EED7D1D},131072"
+CTPKEY_Force_PhysicalSpeakers_with_Encoder          = "{55B9923B-DD06-4605-9EF7-217AC8BAFD1B},0"
+
+CTPKEY_GUID_GFX_Buffer_Time                         = "{dd00adb4-cc3b-45da-b49d-de39f7416780},0"
+CTPKEY_THX_Calibrator_Headroom                      = "{7220943D-A13A-4828-80F7-8E4247F8B26E},0"
+
+CTPKEY_THX_AEC_DA_CrossCorrelationSkipInterval      = "{66304228-CEE5-4212-B2C6-3940A0C5D750},3"
+
+
+CTPKEY_ExtSpkr_StereoEnhance_PresetFile             = "{1B54ED57-807C-47A9-9658-EFEF2C383DA9},0"
+CTPKEY_HP_StereoEnhance_PresetFile                  = "{1B54ED57-807C-47A9-9658-EFEF2C383DA9},2"
+
+
+REG_BINARY   = 0x00000001
+REG_DWORD    = 0x00010001
+REG_MULTI_SZ = 0x00010000
+
+
+; Signal processing mode
+AUDIO_SIGNALPROCESSINGMODE_DEFAULT        = "{C18E2F7E-933D-4965-B7D1-1EEF228D2AF3}"
+AUDIO_SIGNALPROCESSINGMODE_MEDIA          = "{4780004E-7133-41D8-8C74-660DADD2C0EE}"
+AUDIO_SIGNALPROCESSINGMODE_MOVIE          = "{B26FEB0D-EC94-477C-9494-D1AB8E753F6E}"
+AUDIO_SIGNALPROCESSINGMODE_SPEECH 		  = "{FC1CFC9B-B9D6-4CFA-B5E0-4BB2166878B2}"
+AUDIO_SIGNALPROCESSINGMODE_COMMUNICATIONS = "{98951333-B9CD-48B1-A0A3-FF40682D73F7}"
+AUDIO_SIGNALPROCESSINGMODE_NOTIFICATION   = "{9CF2A70B-F377-403B-BD6B-360863E0355C}"
+AUDIO_SIGNALPROCESSINGMODE_RAW 			  = "{9E90EA20-B493-4FD1-A1A8-7E1361A956CF}"
+
+
+; APO CLSIDs
+CTAPO_SFX_CLSID         = "{71DAB6A1-39F3-423E-90A8-032729851157}"
+CTAPO_MFX_CLSID         = "{C624D7B2-8333-448E-85C8-51EEFC2025ED}"
+CTAPO_EFX_CLSID         = "{EC2F4B76-6AE1-4DB9-8FF6-344B74CF9650}"
+CTAPO_IEFX_CLSID        = "{A14358D4-2952-4E26-8D27-8976993C4E61}"
+
+
+CTPKEY_CREATIVE_SUPPORTED_SC_ENDPT                    = "{F5376650-918F-4CF4-91FB-D123CF4E1350},1"
+CTPKEY_CUSTOM_CTAPP_ENDPT_STR                         = "{F016932A-D3A3-410C-AE49-0F568A160823},0"
+CTPKEY_CUSTOM_CTAPP_ENDPT_ICO                         = "{F016932A-D3A3-410C-AE49-0F568A160823},1"
+
+KSMLFX_CLSID = "{D0C20A43-041B-4705-9193-2FD64F0B168A}"
+CTMLFX_CLSID = "{F12078D8-CA28-4cb8-9198-908C56B23E74}"
+KSDGFX_CLSID = "{242249CC-E3C8-4571-9A0B-ED0906B7F994}"
+CTDGFX_CLSID = "{FC9479E3-F89E-47d8-A5AA-AB59575C9EA1}"
+
+SC_CREATIVE         = "{ac6d33b1-0629-4d06-a0d6-73d896269347}"
+
+
+CTPKEY_GUID_SCOUT0 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},0"
+CTPKEY_GUID_SCOUT1 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},1"
+CTPKEY_GUID_SCOUT2 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},2"
+CTPKEY_GUID_SCOUT3 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},3"
+CTPKEY_GUID_SCOUT4 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},4"
+CTPKEY_GUID_SCOUT5 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},5"
+CTPKEY_GUID_SCOUT10 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},10"
+CTPKEY_GUID_SCOUT11 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},11"
+CTPKEY_GUID_SCOUT12 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},12"
+CTPKEY_GUID_SCOUT13 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},13"
+CTPKEY_GUID_SCOUT14 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},14"
+CTPKEY_GUID_SCOUT15 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},15"
+CTPKEY_GUID_SCOUT16 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},16"
+CTPKEY_GUID_SCOUT17 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},17"
+CTPKEY_GUID_SCOUT18 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},18"
+CTPKEY_GUID_SCOUT19 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},19"
+CTPKEY_GUID_SCOUT20 = "{156AC5B7-384A-4b15-A3A4-79350563FC88},20"
+
+
+WaveOutDevName          ="WaveOutName"
+WaveInDevName           ="WaveInName"
+MixerDevName            ="MixerName"
+
+;; SB1815 Specific Strings *****************************************************************************
+SB1815.DeviceDesc        ="Sound Blaster X4"
+SB1815.Product           ="Sound Blaster X4"
+SB1815.Wave.szPname      ="Sound Blaster X4"
+SB1815.Topology.szPname  ="Sound Blaster X4"
+
+;; ZZ0090 Specific Strings *****************************************************************************
+ZZ0090.DeviceDesc       ="Sound Blaster X1"
+ZZ0090.Product           ="Sound Blaster X1"
+ZZ0090.Wave.szPname      ="Sound Blaster X1"
+ZZ0090.Topology.szPname  ="Sound Blaster X1"
+
+;; SA0200 Specific Strings *****************************************************************************
+SA0200.DeviceDesc        ="Creative BT-L4"
+SA0200.Product           ="Creative BT-L4"
+SA0200.Wave.szPname      ="Creative BT-L4"
+SA0200.Topology.szPname  ="Creative BT-L4"
+
+;; SB1860_74 Specific Strings *****************************************************************************
+
+SB1860_74.DeviceDesc        ="Sound Blaster Play! 4"
+SB1860_74.Product           ="Sound Blaster Play! 4"
+SB1860_74.Wave.szPname      ="Sound Blaster Play! 4"
+SB1860_74.Topology.szPname  ="Sound Blaster Play! 4"
+
+;; SB1860_76 Specific Strings *****************************************************************************
+
+SB1860_76.DeviceDesc        ="Sound Blaster Play! 4"
+SB1860_76.Product           ="Sound Blaster Play! 4"
+SB1860_76.Wave.szPname      ="Sound Blaster Play! 4"
+SB1860_76.Topology.szPname  ="Sound Blaster Play! 4"
+
+;; SA0190 Specific Strings *****************************************************************************
+SA0190.DeviceDesc        ="Creative BT-L3"
+SA0190.Product           ="Creative BT-L3"
+SA0190.Wave.szPname      ="Creative BT-L3"
+SA0190.Topology.szPname  ="Creative BT-L3"
+
+;; SB1820 Specific Strings *****************************************************************************
+SB1820.DeviceDesc        ="Sound Blaster X5"
+SB1820.Product           ="Sound Blaster X5"
+SB1820.Wave.szPname      ="Sound Blaster X5"
+SB1820.Topology.szPname  ="Sound Blaster X5"
+
+;; SA0180 Specific Strings *****************************************************************************
+SA0180.DeviceDesc        ="Creative BT-W4"
+SA0180.Product           ="Creative BT-W4"
+SA0180.Wave.szPname      ="Creative BT-W4"
+SA0180.Topology.szPname  ="Creative BT-W4"
+
+;; SA0180_3 Specific Strings *****************************************************************************
+SA0180_3.DeviceDesc        ="Creative BT-W3X"
+SA0180_3.Product           ="Creative BT-W3X"
+SA0180_3.Wave.szPname      ="Creative BT-W3X"
+SA0180_3.Topology.szPname  ="Creative BT-W3X"
+
+;; SA0180_4 Specific Strings *****************************************************************************
+SA0180_4.DeviceDesc        ="Creative BT-W5"
+SA0180_4.Product           ="Creative BT-W5"
+SA0180_4.Wave.szPname      ="Creative BT-W5"
+SA0180_4.Topology.szPname  ="Creative BT-W5"
+
+;; SB1710 Specific Strings *****************************************************************************
+SB1710.DeviceDesc        ="Sound BlasterX G1"
+SB1710.Product           ="Sound BlasterX G1"
+SB1710.Wave.szPname      ="Sound BlasterX G1"
+SB1710.Topology.szPname  ="Sound BlasterX G1"
+
+;; MF1705 Specific Strings *****************************************************************************
+MF1705.DeviceDesc        ="Creative T60"
+MF1705.Product           ="Creative T60"
+MF1705.Wave.szPname      ="Creative T60"
+MF1705.Topology.szPname  ="Creative T60"
+
+;; MF1710 Specific Strings *****************************************************************************
+MF1710.DeviceDesc        ="Creative Pebble Pro"
+MF1710.Product           ="Creative Pebble Pro"
+MF1710.Wave.szPname      ="Creative Pebble Pro"
+MF1710.Topology.szPname  ="Creative Pebble Pro"
+
+;; MF1715 Specific Strings *****************************************************************************
+MF1715.DeviceDesc        ="Creative Pebble X"
+MF1715.Product           ="Creative Pebble X"
+MF1715.Wave.szPname      ="Creative Pebble X"
+MF1715.Topology.szPname  ="Creative Pebble X"
+
+;; MF0495 Specific Strings *****************************************************************************
+MF0495.DeviceDesc        ="Creative Pebble X Plus"
+MF0495.Product           ="Creative Pebble X Plus"
+MF0495.Wave.szPname      ="Creative Pebble X Plus"
+MF0495.Topology.szPname  ="Creative Pebble X Plus"
+
+;; SA0210 Specific Strings *****************************************************************************
+SA0210.DeviceDesc        ="Creative BT-W6"
+SA0210.Product           ="Creative BT-W6"
+SA0210.Wave.szPname      ="Creative BT-W6"
+SA0210.Topology.szPname  ="Creative BT-W6"
+
+;; MF8460 Specific Strings *****************************************************************************
+MF8460.DeviceDesc        ="Creative Stage SE mini"
+MF8460.Product           ="Creative Stage SE mini"
+MF8460.Wave.szPname      ="Creative Stage SE mini"
+MF8460.Topology.szPname  ="Creative Stage SE mini"
+
+;; MF8410 Specific Strings *****************************************************************************
+MF8410.DeviceDesc        ="Creative Stage SE"
+MF8410.Product           ="Creative Stage SE"
+MF8410.Wave.szPname      ="Creative Stage SE"
+MF8410.Topology.szPname  ="Creative Stage SE"
+
+;; MF8470 Specific Strings *****************************************************************************
+MF8470.DeviceDesc        ="Sound Blaster GS5"
+MF8470.Product           ="Sound Blaster GS5"
+MF8470.Wave.szPname      ="Sound Blaster GS5"
+MF8470.Topology.szPname  ="Sound Blaster GS5"
+
+
