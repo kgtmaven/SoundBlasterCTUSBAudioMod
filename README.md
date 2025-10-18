@@ -14,6 +14,7 @@ This driver is designed to solve an annoying problem.
 
 ## Supported Devices
  - Sound Blaster X4
+ - Sound Blaster X7 (Experimental, Ported)
 
 <br/>
 
@@ -23,6 +24,10 @@ This driver is designed to solve an annoying problem.
    - The Sound Blaster X4 originally used a kernel driver called "CTUSBAud/CTUSBa64" as of driver version '1.18.01.04', but newer versions use Microsoft's default kernel driver, "usbaudio2.sys". This causes annoying problems on some systems.
    - Therefore, this driver is based on driver version '3.06.03.00' and is a modded driver designed to operate in the same way as '1.18.01.04'.
    - While many Sound Blaster X4 users have found that using the '1.18.01.04' or '2.00.02.10' driver version has resolved an annoying issue, it may still cause clicks and pops on some systems. i recommend using the appropriate driver for your situation.
+
+ - Support for older devices
+   - <img width="1319" height="653" alt="sb1580_ctusbaud" src="https://github.com/user-attachments/assets/5ee83720-6506-4aef-b94a-4a40283d8c87" />
+   - Sound Blaster X7 originally uses the "KSUSBAud" kernel driver, but it was made to work successfully with the "CTUSBAud" kernel driver as well. This is still in the experimental stage, with focus on the availability of the latest kernel drivers on previous devices.
 
 <br/>
 
