@@ -15,6 +15,7 @@ This driver is designed to solve an annoying problem.
 ## Supported Devices
  - Sound Blaster X4
  - Sound Blaster X7 (Experimental, Ported)
+ - Sound Blaster E5 (Experimental, Ported)
 
 <br/>
 
@@ -27,7 +28,8 @@ This driver is designed to solve an annoying problem.
 
  - Support for older devices
    - <img width="1319" height="653" alt="sb1580_ctusbaud" src="https://github.com/user-attachments/assets/5ee83720-6506-4aef-b94a-4a40283d8c87" />
-   - Sound Blaster X7 originally uses the "KSUSBAud" kernel driver, but it was made to work successfully with the "CTUSBAud" kernel driver as well. This is still in the experimental stage, with focus on the availability of the latest kernel drivers on previous devices.
+   - <img width="1315" height="655" alt="sb1590_ctusbaud" src="https://github.com/user-attachments/assets/70cbc50d-3952-495b-9a6a-51b777160db7" />
+   - Sound Blaster X7 / E5 originally uses the "KSUSBAud" kernel driver, but it was made to work successfully with the "CTUSBAud" kernel driver as well. This is still in the experimental stage, with focus on the availability of the latest kernel drivers on previous devices.
 
 <br/>
 
