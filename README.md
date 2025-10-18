@@ -29,3 +29,4 @@ This driver is designed to solve an annoying problem.
 ## Notes
  - When installing the driver, you must boot in 'Disable driver signature enforcement' mode.
  - If you experience clicks or pops while using this driver, please use the official driver.
+ - There is currently a minor issue with Acoustic Engine. Switching between speaker and headphone modes must be done manually by changing the output channel settings.
